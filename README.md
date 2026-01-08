@@ -14,7 +14,7 @@ PostgreSQL – Data storage and SQL querying
 SQL – Aggregations, joins, and analytical queries
 Power BI – Interactive dashboard and data visualization
 Gamma – Presentation (PPT) creation
-Jupyter Notebook / VS Code – Development environment
+Jupyter Notebook – Development environment
 
 Project Steps
 Data Loading:
